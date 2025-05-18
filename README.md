@@ -4,9 +4,11 @@ E’ arrivato il momento di mettere insieme i concetti appresi creiamo una picco
 attrici.
 Usate uno di questi due endpoint, a piacimento:
 
-### Lista di Attrici: https://lanciweb.github.io/demo/api/actresses/
+### Lista di Attrici: 
+https://lanciweb.github.io/demo/api/actresses/
 
-### Lista di Attori: https://lanciweb.github.io/demo/api/actors/
+### Lista di Attori: 
+https://lanciweb.github.io/demo/api/actors/
 
 ## MILESTONE 1
 
@@ -27,10 +29,10 @@ Mostriamo in pagina una card per ciascun attore, con grafica a piacimento!
 
 #### Numero minimo di push: 8
 
-## BONUS 1 :rilassato:
+## BONUS 1
 
 Stampare sia una lista delle attrici che degli attori, separatamente.
 
-## BONUS 2 :occhiali_da_sole:
+## BONUS 2
 
 Stampare un’unica lista che contiene attori e attrici insieme!
