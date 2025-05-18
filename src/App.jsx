@@ -1,9 +1,13 @@
+import Header from "./components/Header.jsx";
+import Main from "./components/Main.jsx";
+
 const App = () => {
     return (
-        <div>
-            <h1 className='text-red-500'>Hello world</h1>
-        </div>
-    );
+        <>
+            <Header/>
+            <Main/>
+        </>
+    )
 };
 
 export default App;
